@@ -1,2 +1,2 @@
-#It is my first Git Repo. 
+#It is my first Git Repo. Я научилacь создавать Git-репозиторий и делать коммиты.
 
